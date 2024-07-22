@@ -1,6 +1,6 @@
 # Graphing Calculator
 
-This calculator can both graph equations and solves equations.
+This calculator can both graph equations and solves equations. If you would like to use the program, simply download the program and pip install matplotlib and numpy, then run the program!
 
 ## Graphing
 
